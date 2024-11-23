@@ -80,16 +80,6 @@ The dataset comprises the following columns, grouped into **categorical** and **
 - Analyzing frequency distributions of categorical variables.
 - Exploring key statistics for grouped categories.
 
-### 8. **Relationships Between Categorical and Numerical Data**
-- Studying associations between team-based statistics and individual performance.
-- Using statistical tests like ANOVA or visualizations to explore relationships.
-
-### 9. **Visualization**
-- **Bar Charts**: Frequency distributions of categorical variables.
-- **Histograms**: Distribution of numerical variables (e.g., points scored).
-- **Box Plots**: Comparing numerical data across categorical variables (e.g., rebounds by team).
-- **Correlation Heatmaps**: Relationships among numerical features.
-
 ---
 
 ## 🔍 Key Insights
@@ -107,4 +97,4 @@ The dataset comprises the following columns, grouped into **categorical** and **
 
 ---
 
-## 📌 Kaggle Link: https://www.kaggle.com/code/keremtanl/notebookc25bf18123
+## 📌 Kaggle Link: https://www.kaggle.com/code/keremtanl/basketball-data-analysis
