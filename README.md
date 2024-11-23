@@ -105,3 +105,6 @@ The dataset comprises the following columns, grouped into **categorical** and **
 - **Matplotlib/Seaborn**: Data visualization.
 - **Scikit-learn**: For potential model-building steps.
 
+---
+
+## Kaggle Link: https://www.kaggle.com/code/keremtanl/notebookc25bf18123/edit#Relationships-Between-Categorical-and-Numeric-Data-and-Their-Visualization
